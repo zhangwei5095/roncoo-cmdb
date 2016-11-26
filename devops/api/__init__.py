@@ -12,7 +12,7 @@ import login
 import power
 import role
 import user
-import select
+import selectd
 import idc
 import cabinet
 import server
@@ -21,3 +21,6 @@ import zbhost
 import zabbix_api
 import cobbler
 import zabbix_Graph_api
+import switch
+import jigui
+import report
